@@ -2,6 +2,6 @@
 #define FACT
 
 
-int randchar();
+int randchar(); // define randchar so it can be used in other files
 
 #endif
